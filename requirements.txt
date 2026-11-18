@@ -4,3 +4,8 @@ accelerate
 datasets 
 scikit-learn 
 pandas
+pymupdf
+sentence-transformers 
+numpy
+python-dotenv 
+yfinance

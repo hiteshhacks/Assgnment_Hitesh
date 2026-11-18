@@ -1,0 +1,10 @@
+{
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "chunk_size": 1000,
+  "chunk_overlap": 200,
+  "total_documents": 10,
+  "total_pdf_pages": 911,
+  "extractable_pages": 788,
+  "total_chunks": 2616,
+  "embedding_dimension": 384
+}
