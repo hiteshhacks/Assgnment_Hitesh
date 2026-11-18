@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "question": "What are the main responsibilities of the Controller General of Accounts (CGA) in the Union Government?",
+    "expected_source": "CAMasonFeb2024 (2) (1).pdf",
+    "expected_page": 1,
+    "gold_passage": "The CGA is responsible for compiling Union Government (Civil) accounts, establishing and maintaining a technically sound payment-cum-accounting system, advising the Government on accounting matters, and supporting exchequer control and internal audit."
+  },
+  {
+    "id": 2,
+    "question": "On what accounting basis are Government Accounts maintained, and what does that basis record?",
+    "expected_source": "CAMasonFeb2024 (2) (1).pdf",
+    "expected_page": 3,
+    "gold_passage": "Government Accounts are maintained on a cash basis, representing actual cash receipts and disbursements during a financial year, unlike accrual accounting."
+  },
+  {
+    "id": 3,
+    "question": "What functions does the Public Financial Management System (PFMS) support?",
+    "expected_source": "CAMasonFeb2024 (2) (1).pdf",
+    "expected_page": 5,
+    "gold_passage": "PFMS supports sanction preparation, bill processing, payments, receipt management, Direct Benefit Transfer, fund-flow management, financial accounting and reporting."
+  },
+  {
+    "id": 4,
+    "question": "What broad questions does macroeconomics examine about the economy as a whole?",
+    "expected_source": "class-12-macroeconomics (1) (1).pdf",
+    "expected_page": 1,
+    "gold_passage": "Macroeconomics considers economy-wide questions such as changes in the overall price level, employment conditions, indicators of economic health, and possible actions by the State or people to improve the economy."
+  },
+  {
+    "id": 5,
+    "question": "How does the Class 12 macroeconomics text describe the role of individual economic agents in microeconomics?",
+    "expected_source": "class-12-macroeconomics (1) (1).pdf",
+    "expected_page": 4,
+    "gold_passage": "The text contrasts macroeconomics with microeconomics, where individual economic agents and the motivations that drive them are studied."
+  },
+  {
+    "id": 6,
+    "question": "Why are interest rates also called discount rates, and what do they measure?",
+    "expected_source": "CFA-2024-Level-I-SchweserNotes-Book-1 (1) (1).pdf",
+    "expected_page": 1,
+    "gold_passage": "Interest rates measure the time value of money and are also referred to as discount rates; they can be used to discount future payments to their equivalent current value."
+  },
+  {
+    "id": 7,
+    "question": "What are default risk, liquidity risk, and maturity risk in fixed-income investments?",
+    "expected_source": "CFA-2024-Level-I-SchweserNotes-Book-1 (1) (1).pdf",
+    "expected_page": 2,
+    "gold_passage": "Default risk is the risk that a borrower will not make promised payments on time; liquidity risk is the risk of receiving less than fair value when selling quickly; maturity risk reflects greater price volatility of longer-term bonds."
+  },
+  {
+    "id": 8,
+    "question": "What decisions and activities are covered by corporate finance?",
+    "expected_source": "corporateFinance (1).pdf",
+    "expected_page": 1,
+    "gold_passage": "Corporate finance covers a company's investment, financing, dividend distribution, and risk-management decisions, including planning, raising, deploying, and controlling funds to maximize firm value."
+  },
+  {
+    "id": 9,
+    "question": "What is capital structure, and what are its main sources of long-term finance?",
+    "expected_source": "corporateFinance (1).pdf",
+    "expected_page": 1,
+    "gold_passage": "Capital structure is the mix of long-term financing sources used by a company, including equity, debt, and hybrid instruments."
+  },
+  {
+    "id": 10,
+    "question": "Which two major stock exchanges form the core of India's equity markets, and which indices track them?",
+    "expected_source": "finance+valuation (1).pdf",
+    "expected_page": 1,
+    "gold_passage": "India's equity markets revolve around the National Stock Exchange (NSE) and Bombay Stock Exchange (BSE); the Nifty 50 tracks 50 large-cap NSE companies and the Sensex tracks 30 BSE blue-chip stocks."
+  },
+  {
+    "id": 11,
+    "question": "What instruments are traded in debt markets, and what are the main functions of these markets?",
+    "expected_source": "INDIAN_FINANCE_MARKET (1).pdf",
+    "expected_page": 2,
+    "gold_passage": "Debt markets involve fixed-income instruments such as government securities, state development loans, corporate bonds, and municipal bonds; they help finance fiscal deficits and infrastructure, provide stable income, and transmit monetary policy."
+  },
+  {
+    "id": 12,
+    "question": "What is accounting, and what are its main purposes according to the accounting fundamentals material?",
+    "expected_source": "fundamental_of_acc (1).pdf",
+    "expected_page": 1,
+    "gold_passage": "Accounting is the process of identifying, recording, classifying, summarizing, and interpreting financial transactions; it measures performance, supports control and decisions, and helps meet regulatory requirements."
+  },
+  {
+    "id": 13,
+    "question": "State the accounting equation and explain what it represents.",
+    "expected_source": "fundamental_of_acc (1).pdf",
+    "expected_page": 2,
+    "gold_passage": "Assets = Liabilities + Owner's Equity. Business resources are financed either by outsiders through liabilities or by the owner through equity."
+  },
+  {
+    "id": 14,
+    "question": "What is the purpose of an independent audit, and what does it assess about financial statements?",
+    "expected_source": "principles-and-practice-of-auditing (1) (1).pdf",
+    "expected_page": 1,
+    "gold_passage": "An independent qualified auditor examines statements, papers, information, and comments to assess the authenticity of financial accounts and whether the balance sheet and profit-and-loss account present a fair view."
+  },
+  {
+    "id": 15,
+    "question": "How does the taxation basics document distinguish direct taxes from indirect taxes?",
+    "expected_source": "Taxtion_basics (1).pdf",
+    "expected_page": 1,
+    "gold_passage": "Direct taxes are imposed directly on income or wealth and their burden cannot be shifted; indirect taxes are levied on goods and services and their burden can be shifted to consumers."
+  }
+]
